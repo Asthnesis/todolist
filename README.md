@@ -28,7 +28,6 @@ Tap the checkbox next to a task to mark it as completed.
 Deleting a Completed Task:
 Click on the checkbox to select an item then delete it by clicking the 'delete done' button
 
-####################################################
 Bugs
 -added tasks are cleared on phone rotation
 - No storage for added todo items
